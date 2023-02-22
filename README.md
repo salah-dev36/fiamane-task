@@ -4,9 +4,9 @@ Fiamane-image wiki is a web application that acts as a images search engine cons
 
 
 ## Screenshots
-![](fiamane.png)
-![](fiamane2.png)
-![](fiamane3.png)
+![](/public/img/fiamane.png)
+![](/public/img/fiamane2.png)
+![](/public/img/fiamane3.png)
 
 ## Usage
 
@@ -21,3 +21,4 @@ Fiamane-image wiki is a web application that acts as a images search engine cons
 3. run `npm start`
 
 I've let my API key accessible, you don't need to create an account at Unsplash
+
