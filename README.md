@@ -4,9 +4,9 @@ Fiamane-image wiki is a web application that acts as a images search engine cons
 
 
 ## Screenshots
-![](fiamane.png)
-![](fiamane2.png)
-![](fiamane3.png)
+![](/fiamane.png)
+![](/fiamane2.png)
+![](/fiamane3.png)
 
 ## Usage
 
