@@ -1,6 +1,6 @@
 import React from "react";
 
-const SearchForm = ({ onChangeHandler, onSubmitHandler,enterKeyHandler }) => {
+const SearchForm = ({ onChangeHandler, onSubmitHandler, enterKeyHandler }) => {
   return (
     <form
       onSubmit={onSubmitHandler}
