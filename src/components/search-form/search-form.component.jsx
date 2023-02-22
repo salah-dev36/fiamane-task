@@ -4,7 +4,7 @@ const SearchForm = ({ onChangeHandler, onSubmitHandler, enterKeyHandler }) => {
   return (
     <form
       onSubmit={onSubmitHandler}
-      className="mx-auto max-w-lg bg-primary py-8 px-5 rounded-lg m-10 flex justify-center"
+      className="mx-auto max-w-2xl bg-primary py-8 px-12 rounded-lg m-12 flex justify-center"
     >
       <input
         onChange={onChangeHandler}
